@@ -92,14 +92,14 @@ endmodule
  RegisterNumber: 25015303
  
 **Logic symbol & Truthtable**
-<img width="975" height="762" alt="image" src="https://github.com/user-attachments/assets/5a94e2f0-5f63-44b6-9d2c-6d0a06206454" />
-
 
 **RTL realization Output:** 
 <img width="1767" height="637" alt="image" src="https://github.com/user-attachments/assets/250a2630-4cd9-44c0-80ed-ea54b41fc9e0" />
 
 **RTL**
+<img width="975" height="763" alt="Screenshot 2025-11-17 112242" src="https://github.com/user-attachments/assets/ce16a69d-5923-45f4-8fc0-bd43c4a16df3" />
 
 **Result:**
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
 
