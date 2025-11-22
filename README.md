@@ -84,7 +84,7 @@ module Gate_1 (
     assign nand_out = ~(a & b);   // NAND gate
     assign nor_out  = ~(a | b);   // NOR gate
     assign xor_out  = a ^ b;      // XOR gate
-    assign xnor_out = ~(a ^ b);   // XNOR gate
+    assign xnor_out = ~(a ^ b);   // XNOR gate 
 
 endmodule
 ```
